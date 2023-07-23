@@ -17,7 +17,7 @@ var Indicator = GObject.registerClass(class Indicator extends BaseIndicator {
       // Ensure percentage label is enabled regardless of gsettings
       this._percentageLabel.visible = true
 
-      return percentage + " (debug) %";
+      return percentage + "%";
    }
 
    _sync() {
