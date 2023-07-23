@@ -12,3 +12,4 @@ If you want just the battery percentage, gnome shell already can do that by itse
 ```
 
 If you want just the battery time, use the original extension, [Battery Time](https://extensions.gnome.org/extension/1475/battery-time/)
+<..test commit change..>
