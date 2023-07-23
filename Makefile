@@ -1,4 +1,4 @@
-UUID=batterypercentageandtime@copong.gmail.com
+UUID=batterypercentage@vivekyadav7272.gmail.com
 
 default: clean zip
 
