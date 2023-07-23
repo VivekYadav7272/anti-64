@@ -23,6 +23,7 @@ class BaTimeExtension {
 let baTime;
 
 function enable() {
+   log("Enabling badnumber extension..");
    baTime = new BaTimeExtension();
 }
 
