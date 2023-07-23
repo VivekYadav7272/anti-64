@@ -1,5 +1,4 @@
 # Battery Percentage <img src="panel.png" align="right" alt="icon">
-[<img src="https://raw.githubusercontent.com/luispabon/gnome-shell-battery-time-and-percentage/master/panel.png?sanitize=true">](https://extensions.gnome.org/extension/1771/battery-percentage-and-time/)
 
 A GNOME shell extension to ban certain unholy numbers from embracing your eyes and make you unpure. I can't keep taking baths everytime I glare at my battery %age and find 64.
 
